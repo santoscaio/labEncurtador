@@ -1,5 +1,7 @@
 # labEncurtador
 
+Estudo utilizando o Lumen como base para o desenvolvimento de um encurtador de URL
+
 ## Para utilização dessa aplicação
 Um servidor rodando Ubuntu 14.04.
 
@@ -43,7 +45,7 @@ Em seu sistema, acesse o diretorio de armazenamento do seu encurtador e efetue a
 > sudo git pull origin master
 
 
-Ou baixe a versão mais nova do [Encurtador](https://github.com/santoscaio/labEncurtador.git)
+Ou baixe a versão mais nova do [Encurtador](https://github.com/santoscaio/labEncurtador/archive/master.zip)
 
 
 ## Baixando as dependencias
