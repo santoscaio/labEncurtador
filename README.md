@@ -63,5 +63,6 @@ Em seu sistema, acesse o diretorio de configuração "*enviroments/prod/*" e edi
 
 > DB_PASSWORD=senha // Senha do usuário
 
+
 ### Para teste da API
 http://c.santoscaio.com/Gho
