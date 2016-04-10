@@ -10,7 +10,7 @@ Apache e php +5.4
 Acesso a um servidor de banco de dados MySql com permissão de criação de schema
 
 ## Configurando o banco de dados
-O banco de dados deve ser MySql
+O banco de dados deve ser **MySql**
 
 Crie um schema para o sistema de encurtador
 
@@ -22,15 +22,15 @@ Crie um usuário com permissão de **SELECT**, **UPDATE**, **DELETE**
 ## Instalando o Composer no Ubuntu 14.04
 Em seu sistema, atualize o sistema
 
-sudo apt-get update
+> sudo apt-get update
 
 Instale as dependencias
 
-sudo apt-get install curl git
+> sudo apt-get install curl git
 
+Instalando o composer
 
-###Instalando o composer
-curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+> curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 
 
 ## Baixe do Git a versão mais nova do aplicativo
@@ -49,7 +49,7 @@ Ou baixe a versão mais nova do [Encurtador](https://github.com/santoscaio/labEn
 ## Baixando as dependencias
 Em seu sistema, acesse o diretorio de armazenamento do seu encurtador e execute o comando abaixo:
 
-sudo composer install
+> sudo composer install
 
 
 ## Configure o banco de dados
